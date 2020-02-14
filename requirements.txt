@@ -71,7 +71,7 @@ PyTweening==1.0.3
 pytz==2019.3
 pywin32==225
 pywin32-ctypes==0.2.0
-requests==2.12.4
+requests==2.20.0
 selenium==3.141.0
 service-identity==18.1.0
 six==1.12.0
