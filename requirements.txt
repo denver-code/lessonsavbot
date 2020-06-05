@@ -20,7 +20,7 @@ constantly==15.1.0
 cryptography==2.8
 cycler==0.10.0
 daphne==2.4.1
-Django==3.0.3
+Django==3.0.7
 face-recognition-models==0.3.0
 fake-useragent==0.1.11
 Flask==1.1.1
